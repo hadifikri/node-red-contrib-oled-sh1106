@@ -8,8 +8,8 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "i2c-bus": "^1.2.4",
-    "oled-font-5x7": "^1.0.0"
+    "i2c-bus": "^5.2.0",
+    "oled-font-5x7": "^1.0.3"
   },
   "deprecated": false,
   "description": "Node-Red node for controlling OLED SH1106 displays",
